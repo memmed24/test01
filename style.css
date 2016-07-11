@@ -1,0 +1,87 @@
+body{
+	margin: 5px;
+	background-image: url('000244_toylj_0.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.main{
+	height: 100%;
+	width: auto;
+	text-align: center;
+}
+.any{
+	margin: 15px;
+}
+.text{
+	color: black;
+	font-family: Arial;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 0px 5px 10px gray;
+}
+
+.picture{
+	background-color: white;
+	color: gray;
+	border: 1px dashed gray;
+	height: 200px;
+    width: 150px;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 60px;
+    margin-left: 900px;
+}
+
+.info{
+	margin-top: -230px;
+}
+
+.s{
+	margin-bottom: 5px;
+	margin-left: 5px;
+	width: 250px;
+	height: 30px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 2px black; 
+}
+
+.urself{
+	font-family: sans-serif;
+	font-size: 30px;
+	text-shadow: 0px 0px 2px gray;
+}
+
+.edutop{
+	margin-left: -372px;
+	padding: 2px;
+	color: white;
+	border-radius: 2px 10px 2px 2px;
+	background-color: #000D30;
+}
+
+.exptop{
+	margin-left: -367px;
+	padding: 2px;
+	color: white;
+	border-radius: 2px 10px 2px 2px;
+	background-color: #000D30;
+}
+
+.edu{
+	margin-bottom: 10px;
+}
+
+.btn{
+	height: 50px;
+	border-radius: 5px;
+	background-color: #000D30;
+	width: 150px;
+	color: white;
+	transition: 250ms ease-in;
+	cursor: pointer;
+}
+
+.btn:hover{
+	background-color: #01195E;
+}
